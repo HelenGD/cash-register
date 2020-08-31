@@ -1,0 +1,36 @@
+.product-characteristics-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-price-container {
+  display: flex;
+  align-items: center;
+}
+
+.product-td {
+  /* display: flex;
+  justify-content: space-between; */
+  width: 300px;
+  padding: 10px;
+  border-bottom: 4px solid black;
+}
+
+/* .product-td:last-child {
+  border: 0;
+} */
+
+.product-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 4px solid black;
+}
+/* 
+.product-container:last-child {
+  border-bottom: 0;
+} */
+
+.product-table {
+  background-color: white;
+}

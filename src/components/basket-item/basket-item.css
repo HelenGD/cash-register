@@ -1,0 +1,22 @@
+.basket-td {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 4px solid black;
+  padding: 10px;
+  background-color: white;
+}
+
+.basket-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.basket-characteristics-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.basket-price-container {
+  display: flex;
+  align-items: center;
+}
